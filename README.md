@@ -9,7 +9,7 @@ I am Web Developer and UI/UX Developer
 ------------------------
 
 
-I've been learning Web Development for 2 years and it has really grown on me! It has become my passion to develop cool-looking websites that people love to use
+I hold a bachelor’s degree in Information Technology and Software Engineering. I am passionate about developing websites, developing user interfaces, analyzing problems, and finding technical solutions to them. Worked on the development of several software projects in the field of website development. I am looking forward to building my future career in this field.
 
 
 * 🌍  I'm based in Australia

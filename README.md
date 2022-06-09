@@ -30,6 +30,11 @@ I hold a bachelor’s degree in Information Technology and Software Engineering.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam0504&layout=compact)](https://github.com/maryam0504/github-readme-stats)
+
+
+
 <!---
 maryam0504/maryam0504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
